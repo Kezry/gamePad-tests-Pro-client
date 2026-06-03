@@ -1,0 +1,42 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+out/
+target/
+
+# Coverage
+coverage/
+*.lcov
+
+# Temp
+*.tmp
+*.temp
+*.swp
+*.swo
