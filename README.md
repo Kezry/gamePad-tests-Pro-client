@@ -6,7 +6,7 @@
 
 ### 镜像下载
 
-蓝奏云：[点击下载](https://wwbwr.lanzouw.com/in6Ur3r4mgxg)
+蓝奏云：[点击下载](https://wwbwr.lanzouw.com/iO4mY47sbmoh)
 
 密码：`game`
 
