@@ -40,3 +40,6 @@ coverage/
 *.temp
 *.swp
 *.swo
+
+# Tool state
+.mimosa/
